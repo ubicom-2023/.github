@@ -3,7 +3,7 @@
 This project is a collaborative project between the DSD course at Jilin University in China, and Ubiquitous Computing at the University of Trás-os-Montes e Alto Douro, Portugal.
 
 <div align="center">
-    <img  src="MoPre.png"/>
+    <img  src="./MoPre.png"/>
 </div>
 
 ## Motion Prediction
